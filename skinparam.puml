@@ -1,5 +1,6 @@
 @startuml override-skin
-!include https://unpkg.com/plantuml-style-c4@latest/colors.puml
+!include https://raw.githubusercontent.com/romainshen/plantuml-style-c4/master/colors.puml
+'!include https://unpkg.com/plantuml-style-c4@latest/colors.puml
 ' uncomment the following line and comment the first to use locally
 '!include ./colors.puml
 
