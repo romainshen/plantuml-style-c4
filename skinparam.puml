@@ -12,7 +12,9 @@ skinparam ComponentStyle uml2
 skinparam Shadowing false
 
 skinparam Default {
-    FontName "'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace"
+    'FontName "'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace"
+    'FontName "'JetBrains Mono','Sauce Code Powerline',Menlo, Monaco, 'Courier New', 'Roboto Mono for Powerline','Courier Prime Code','Fantasque Sans Mono',monospace"
+    FontName "Arial"
     FontColor Black
     FontSize  14
     FontStyle plain
